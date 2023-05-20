@@ -34,7 +34,9 @@ iframe#tela{
     width: 269px;
     height: 471px;
 }
-
+section#redes {
+    text-align: right;
+}
 section#redes img:hover{
     border: 2px solid white;
     transform: translate(-3px -3px);
